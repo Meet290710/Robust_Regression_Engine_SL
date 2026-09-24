@@ -46,9 +46,6 @@ The repository contains project screenshots in the `screenshots/` folder.
 | 06 | ![Screenshot 6](screenshots/ss_6.png) |
 | 07 | ![Screenshot 7](screenshots/ss_7.png) |
 
-> 💡 Replace `ss_1.png` … `ss_7.png` with your actual notebook charts, evaluation plots, and Streamlit screenshots.
-
----
 
 ## 🗂️ Dataset
 
