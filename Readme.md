@@ -236,43 +236,6 @@ Build a model that generalizes well to unseen real-estate data.
 
 ---
 
----
-
-📁 Repository Structure
-
-## 📁 Repository Structure
-
-```text
-Robust-Regression-Engine/
-│
-├── Notebook/
-│   └── Robust_Regression_Engine.ipynb
-│
-├── dataset/
-│   └── Advanced_Regression_HousePrice_Dataset_3800.xlsx
-│
-├── app.py
-│
-├── Robust_Regression_Engine_Meet_mehta_12237
-│
-├──  Robust_Regression_Engine_Theory.pdf
-│
-├── requirements.txt
-│
-├── README.md
-│
-└── screenshots/
-    ├── ss_1.png
-    ├── ss_2.png
-    ├── ss_3.png
-    ├── ss_4.png
-    ├── ss_5.png
-    ├── ss_6.png
-    └── ss_7.png
-
----
-
-
 ## 💼 Practical Applications
 
 A robust house-price regression system can support:
@@ -333,9 +296,41 @@ Open the project notebook and run the cells from top to bottom.
 ```bash
 streamlit run app.py
 ```
+---
 
-> Make sure the dataset path used by the application matches the repository structure.
+📁 Repository Structure
 
+## 📁 Repository Structure
+
+```text
+Robust-Regression-Engine/
+│
+├── Notebook/
+│   └── Robust_Regression_Engine.ipynb
+│
+├── dataset/
+│   └── Advanced_Regression_HousePrice_Dataset_3800.xlsx
+│
+├── app.py
+│
+├── Robust_Regression_Engine_Meet_mehta_12237
+│
+├──  Robust_Regression_Engine_Theory.pdf
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── screenshots/
+    ├── ss_1.png
+    ├── ss_2.png
+    ├── ss_3.png
+    ├── ss_4.png
+    ├── ss_5.png
+    ├── ss_6.png
+    └── ss_7.png
+
+---
 ---
 
 ## 📌 Submission Deliverables
