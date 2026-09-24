@@ -238,25 +238,28 @@ Build a model that generalizes well to unseen real-estate data.
 
 📁 Repository Structure
 
-📁 Robust-Regression-Engine/
+## 📁 Repository Structure
+
+```text
+Robust-Regression-Engine/
 │
-├──  Notebook/
+├── Notebook/
 │   └── Robust_Regression_Engine.ipynb
 │
-├──  dataset/
+├── dataset/
 │   └── Advanced_Regression_HousePrice_Dataset_3800.xlsx
 │
-├──  app.py
+├── app.py
 │
-├──  Robust_Regression_Engine_Meet_mehta_12237.mp3
+├── Robust_Regression_Engine_Meet_mehta_12237
 │
 ├──  Robust_Regression_Engine_Theory.pdf
 │
-├──  requirements.txt
+├── requirements.txt
 │
-├──  README.md
+├── README.md
 │
-└──  screenshots/
+└── screenshots/
     ├── ss_1.png
     ├── ss_2.png
     ├── ss_3.png
@@ -264,6 +267,7 @@ Build a model that generalizes well to unseen real-estate data.
     ├── ss_5.png
     ├── ss_6.png
     └── ss_7.png
+
 ---
 
 ## 💼 Practical Applications
