@@ -236,6 +236,8 @@ Build a model that generalizes well to unseen real-estate data.
 
 ---
 
+---
+
 📁 Repository Structure
 
 ## 📁 Repository Structure
@@ -269,6 +271,7 @@ Robust-Regression-Engine/
     └── ss_7.png
 
 ---
+
 
 ## 💼 Practical Applications
 
