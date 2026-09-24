@@ -257,9 +257,6 @@ Robust-Regression-Engine/
     ├── ss_5.png
     ├── ss_6.png
     └── ss_7.png```
-
-> Update filenames above if your actual repository uses different names.
-
 ---
 
 ## 💼 Practical Applications
