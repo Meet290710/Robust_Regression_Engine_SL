@@ -298,8 +298,6 @@ streamlit run app.py
 ```
 ---
 
-📁 Repository Structure
-
 ## 📁 Repository Structure
 
 ```text
